@@ -1,0 +1,3 @@
+module ATmega32U4 {
+  export *
+}

@@ -1,0 +1,18 @@
+files:
+- ATmega32U4+ADC.swift
+- ATmega32U4+CPU.swift
+- ATmega32U4+Pads.swift
+- ATmega32U4+Peripherals.swift
+- ATmega32U4+Portb.swift
+- ATmega32U4+Portc.swift
+- ATmega32U4+Portd.swift
+- ATmega32U4+Porte.swift
+- ATmega32U4+Portf.swift
+- ATmega32U4+Spi.swift
+- ATmega32U4+Tc0.swift
+- ATmega32U4+Tc1.swift
+- ATmega32U4+Tc3.swift
+- ATmega32U4+Twi.swift
+- ATmega32U4+Usart1.swift
+- ATmega32U4.swift
+- module.modulemap
